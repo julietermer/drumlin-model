@@ -1,2 +1,2 @@
 # Drumlin model
-This is a NetLOGO model showing how drumlins are formed
+This NetLogo model represents drumlin formation and evolution over time, through simple interactions, showing how they may form through self-organisation.
